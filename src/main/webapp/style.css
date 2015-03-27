@@ -1,0 +1,171 @@
+#Box {
+    width: 600px;
+    height: 150px;
+    border: solid 2px #2f64fe;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #2f64fe;
+    /*background-color: #349afe;*/
+    direction: rtl;
+    font-size: 50px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -300px;
+}
+
+#Box1 {
+    width: 600px;
+    height: 350px;
+    border: solid 2px #2f64fe;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #2f64fe;
+   /* background-color: #349afe;*/
+    direction: rtl;
+    font-size: 50px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -300px;
+}
+
+#Box2 {
+    width: 1000px;
+    height: 250px;
+    border: solid 2px #2f64fe;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #2f64fe;
+    /*background-color: #349afe;*/
+    direction: rtl;
+    font-size: 50px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+
+    position: fixed;
+    top: 2%;
+    left: 50%;
+    /*margin-top: 100px;*/
+    margin-left: -500px;
+}
+
+#Box3 {
+    width: 1000px;
+    height: 400px;
+    border: solid 2px #2f64fe;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #2f64fe;
+    /*background-color: #349afe;*/
+    direction: rtl;
+    font-size: 50px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -500px;
+}
+
+.body {
+    background-color: #d0e4fe;
+}
+
+label,select,table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    text-align: right;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+button{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    text-align: right;
+    text-justify: auto;
+    font-family: "Times New Roman";
+    font-size: 500px;
+    font-weight: bold;
+}
+
+
+tr {
+    cursor: default;
+    margin-top: 30px;
+    /*border: 1px solid black;*/
+}
+
+.Highlight {
+    background-color: #dcfac9;
+    cursor: pointer;
+}
+
+.selected {
+    background-color: brown;
+    color: #FFF;
+}
+
+div{
+    margin: auto;
+    height: 20px;
+}
+
+.error{
+    color: red;
+    width: 250px;
+}
+
+#ajaxResponse{
+    width: 600px;
+    height: 50px;
+    direction: rtl;
+    font-size: 20px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    margin-top: 500px;
+    margin-left: -300px;
+}
+
+#ajaxResponse1{
+    width: 600px;
+    height: 50px;
+    direction: rtl;
+    font-size: 20px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 300px;
+    margin-left: -300px;
+}
+
+.selectedTable{
+    width: 90%;
+    text-align: center;
+    margin-top: 2%;
+    border: 1px solid black;
+}
+
+.th1{
+    text-align: center;
+    margin-top: 2%;
+}
+
+th{
+    text-align: right;
+}
+
+
